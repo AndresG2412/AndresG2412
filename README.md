@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Hello world! 👋</h1>
 
 ###
@@ -34,36 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
-<!--
-# Prueba
-Esto es una prueba de un README
-
-# Texto
-**Texto en negrita**
-*Texto en cursiva*
-
-> Esto es una cita.
-
-
-# Titulo
-## Subtitulo
-
-# Links e Imagen
-[Página de GitHub](https://github.com)
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-# Lista de elementos
-* Elemento 1
-* Elemento 2
-  * Subelemento
-
-# Codigo
-`int main() {
-printf("Hola, mundo!");
-return 0;
-}`
-
--->
