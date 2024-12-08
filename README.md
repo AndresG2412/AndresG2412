@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hola, soy Andres Gaviria, Ingeniero de sistemas graduado de la universidad Santiago de Cali, Gestor y Director de proyectos de TI, Analista de datos y Programador considerado Full Stack Junior</p>
+<p align="left">Hola, soy Andres Gaviria, Ingeniero de sistemas graduado de la universidad Santiago de Cali, Gestor y Director de proyectos de TI, Analista de datos y Programador considerado Full-Stack Junior</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos o si necesitas de alguno! ademas de eso tambien tengo conocimientos en diferentes lenguajes como Java y Python, junto a diferentes frameworks para programacion web... y poco mas, para hablar mas conmigo puedes escribirme a alguna red social anclada</p>
+<p align="left">Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos</p>
 
 ###
 
