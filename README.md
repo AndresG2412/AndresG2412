@@ -13,7 +13,7 @@ const profile = {
 console.log(profile);
 ```
 
-<p align="left">Hola, soy Andres Gaviria, Ingeniero de sistemas graduado de la universidad Santiago de Cali, Gestor y Director de proyectos de TI, Analista de datos y Programador considerado Full-Stack Junior</p>
+<p align="left">Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack Developer 🇨🇴🫡</p>
 
 ###
 
