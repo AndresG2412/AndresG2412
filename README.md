@@ -17,13 +17,20 @@ console.log(profile);
 
 ###
 
-<h2 align="left">Who I Am</h2>
+<h1 align="left">Who I Am</h2>
 
 ###
 
 <p align="left">Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos</p>
 
 ## [Portfolio Web 💥](https://portafolio-eisi.vercel.app/)
+
+[![LINKEDIN]][Link]
+[![LINKEDIN]][(https://www.linkedin.com/in/andres-gaviria-503757257/)]
+[![LINKEDIN]][https://www.linkedin.com/in/andres-gaviria-503757257/]
+
+[Link]: # 'Link with example title.'
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 ###
 
