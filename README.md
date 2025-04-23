@@ -13,15 +13,17 @@ const profile = {
 console.log(profile);
 ```
 
-<p align="left">Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack Developer 🇨🇴🫡</p>
+<p align="left">Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡</p>
 
 ###
 
-<h2 align="left">Conoceme</h2>
+<h2 align="left">Who I Am</h2>
 
 ###
 
 <p align="left">Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos</p>
+
+## [Portfolio Web 💥](https://portafolio-eisi.vercel.app/)
 
 ###
 
