@@ -1,6 +1,4 @@
-<h1 align="left">Hello world! 👋</h1>
-
-###
+# Hello world! 👋
 
 ```javascript
 const profile = {
@@ -13,30 +11,18 @@ const profile = {
 console.log(profile);
 ```
 
-<p align="left">Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡</p>
+#### Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡
 
-###
 
-<h1 align="left">Who I Am</h2>
+# Who I Am
 
-###
 
-<p align="left">Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos</p>
+#### Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos
 
-## [Portfolio Web 💥](https://portafolio-eisi.vercel.app/)
 
-[![LINKEDIN]][Link]
-[![LINKEDIN]][(https://www.linkedin.com/in/andres-gaviria-503757257/)]
-[![LINKEDIN]][https://www.linkedin.com/in/andres-gaviria-503757257/]
+# Roadmap
 
-[Link]: # 'Link with example title.'
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-
-###
-
-<h2 align="left">Contenido de mis proyectos</h2>
-
-###
+![Roadmap](https://res.cloudinary.com/duwosb0hu/image/upload/v1745370204/roadmap_camilo_h1x3qz.png)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -56,4 +42,4 @@ console.log(profile);
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
+## [Portfolio Web 💥](https://portafolio-eisi.vercel.app/)
