@@ -22,7 +22,7 @@ console.log(profile);
 
 # Roadmap
 
-![Roadmap]([https://res.cloudinary.com/duwosb0hu/image/upload/v1745370204/roadmap_camilo_h1x3qz.png](https://asset.cloudinary.com/duwosb0hu/47d1ca625f2745c436375897453c1f58))
+![Roadmap](https://res.cloudinary.com/duwosb0hu/image/upload/v1747353246/roadmap_camilo_dark_tdtokg.png)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
