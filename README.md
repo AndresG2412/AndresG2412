@@ -1,4 +1,4 @@
-# Hello world! 👋
+<h1 class="text-center">Hello world! 👋</h1>
 
 ```javascript
 const profile = {
