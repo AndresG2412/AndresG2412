@@ -1,4 +1,4 @@
-<h1 class="text-center">Hello world! 👋</h1>
+# Hello world! 👋
 
 ```javascript
 const profile = {
@@ -11,13 +11,14 @@ const profile = {
 console.log(profile);
 ```
 
-#### Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡
+Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡
 
 
 # Who I Am
 
+EN: Learning and making my ideas come true; mainly focused on web programming here are some of my uploaded repositories for you to check my works, working as Front-End and Back-End, using different tools for many years and projects 📚
 
-#### Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos
+ES: Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la programacion web aqui te presento algunos de mis repositorios cargados para que verifiques mis trabajos, trabajando como Front-End y Back-End, usando diferentes herramientas por muchos años y proyectos 📚
 
 
 # Roadmap
