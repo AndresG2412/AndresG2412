@@ -29,7 +29,7 @@ ES: Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la pro
 
 <div class="display: 'flex'; justify-content: 'center'">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresG2412&theme=dracula&border_radius=4.4&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndresG2412&theme=dracula&hide_border=true&border_radius=4.4&locale=es&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![AndresG2412's Stats](https://github-readme-stats.vercel.app/api?username=AndresG2412&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
