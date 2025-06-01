@@ -11,7 +11,7 @@ const profile = {
 console.log(profile);
 ```
 
-Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡
+ Andres Gaviria | Systems Engineer (Universidad Santiago de Cali) | IT Project Manager & PMO | Data Analyst | Junior Full-Stack 🫡
 
 
 # Who I Am
@@ -23,29 +23,17 @@ ES: Aprendiendo y haciendo realidad mis ideas; principalmente centrado en la pro
 
 # Roadmap
 
-![Roadmap](https://res.cloudinary.com/duwosb0hu/image/upload/v1747353246/roadmap_camilo_dark_tdtokg.png)
+![Roadmap](https://res.cloudinary.com/duwosb0hu/image/upload/v1745370204/roadmap_camilo_h1x3qz.png)
 
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center; padding: 10px;">
-    <h1>Main Skills</h1>
-    <hr> <table style="margin: 0 auto;">
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" /></td>
-      </tr>
-    </table>
-  </div>
-  <div style="flex: 1; text-align: center; padding: 10px;">
-    <h2>Otras Habilidades</h2>
-    <hr>
-    <p>Aquí podrías poner otras imágenes o texto.</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  </div>
+# Stats
+
+<div class="display: 'flex'; justify-content: 'center'">
+
+![AndresG2412's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndresG2412&theme=dracula&hide_border=true)
+
+![AndresG2412's Stats](https://github-readme-stats.vercel.app/api?username=AndresG2412&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![AndresG2412's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresG2412&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ## [Portfolio Web 💥](https://portafolio-eisi.vercel.app/)
